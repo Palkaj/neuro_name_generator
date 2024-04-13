@@ -2,8 +2,8 @@
 This neural network, written in Python, will be able to generate a name for your character, for example
 
 ## Installation
-1. Install Python3
-2. Open some workspace, like VS Code or PyCharm
+1. Install (Python3)[https://www.python.org/downloads/]
+2. Open some workspace, like (VS Code)[https://code.visualstudio.com/] or (PyCharm)[https://www.jetbrains.com/ru-ru/pycharm/]
 3. Open terminal
 4. Wrute there **pip install torch torchvision**
 5. Open neural.py in this workspace
